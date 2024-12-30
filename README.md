@@ -5,7 +5,9 @@
    git clone https://github.com/jamesdesantiago/gaxios-deprecation-example.git
 
 2. Install dependencies:
-npm install
+   ```bash
+   npm install
 
-4. Run the script:
-node index.js
+3. Run the script:
+   ```bash
+   node index.js
