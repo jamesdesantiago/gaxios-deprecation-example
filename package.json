@@ -1,0 +1,20 @@
+{
+  "name": "gaxios-deprecation-example",
+  "version": "1.0.0",
+  "description": "Minimal example to reproduce gaxios .data deprecation warning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "gaxios",
+    "deprecation",
+    "node-fetch",
+    "googleapis"
+  ],
+  "author": "James De Santiago",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
